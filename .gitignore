@@ -1,4 +1,4 @@
-*.md
+.md
 /img
-*.yml
 /estilos
+.yml
