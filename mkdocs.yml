@@ -1,7 +1,7 @@
 site_name: Mi Docs
 site_url: https://websergi.com/
-docs_dir: 'md'
-site_dir: 'docs'
+docs_dir: 'docs'
+site_dir: 'site'
 
 nav:
   - Home: 'index.md'
